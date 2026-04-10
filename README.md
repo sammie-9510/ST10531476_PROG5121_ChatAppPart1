@@ -1,2 +1,11 @@
-# ST10531476_PROG5121_ChatAppPart1
-Part 1 Repository
+# Chat Application
+
+## Student Information
+- Name: Esamisipho Ndiko
+- Student Number: ST10531476
+- Module: PROG5121
+
+---
+
+## Project Information
+
