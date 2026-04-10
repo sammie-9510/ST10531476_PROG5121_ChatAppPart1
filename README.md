@@ -1,4 +1,4 @@
-# Chat Application
+# Chat Application Part 1
 
 ## Student Information
 - Name: Esamisipho Ndiko
